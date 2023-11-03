@@ -1,3 +1,13 @@
-const Demo = () =>{
-    console.log('hello')
+import React from 'react';
+
+class Demo {
+
+
+    render(){
+
+    return <div>Hello</div>
+
+    }
+
+
 }
