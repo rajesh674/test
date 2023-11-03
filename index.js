@@ -7,7 +7,7 @@ class Demo {
 
     return <div>
 
-hello lllll
+hello
 
     </div>
 
